@@ -125,7 +125,6 @@ Visit `http://localhost:5000`
 
 
 ## 🗂 Project Structure
-
 Mental-HealthCare-Application_Project/
 ├── mental_health_support_app/           # Flutter Mobile Application
 │   ├── lib/
@@ -155,7 +154,6 @@ Mental-HealthCare-Application_Project/
     ├── requirements.txt
     ├── serviceAccountKey.json
     └── setup_claims.py
-
 ---
 
 ## 👥 Contributors
