@@ -127,7 +127,6 @@ Visit `http://localhost:5000`
 ## 🗂 Project Structure
 
 Mental-HealthCare-Application_Project/
-│
 ├── mental_health_support_app/           # Flutter Mobile Application
 │   ├── lib/
 │   │   ├── core/                        # Logic, Models, & Services
@@ -143,21 +142,19 @@ Mental-HealthCare-Application_Project/
 │   │       ├── counselor/
 │   │       └── guardian/
 │   └── pubspec.yaml
-│
-├── hospital_administration/             # Flask Web Dashboard
-│   ├── controllers/
-│   ├── data/
-│   ├── models/
-│   ├── routes/
-│   ├── services/
-│   ├── static/
-│   ├── templates/
-│   ├── app.py
-│   ├── config.py
-│   ├── requirements.txt
-│   ├── serviceAccountKey.json
-│   └── setup_claims.py
-                 
+└── hospital_administration/             # Flask Web Dashboard
+    ├── controllers/
+    ├── data/
+    ├── models/
+    ├── routes/
+    ├── services/
+    ├── static/
+    ├── templates/
+    ├── app.py
+    ├── config.py
+    ├── requirements.txt
+    ├── serviceAccountKey.json
+    └── setup_claims.py
 
 ---
 
