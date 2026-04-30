@@ -126,43 +126,25 @@ Visit `http://localhost:5000`
 
 ## 🗂 Project Structure
 
-
-
 Mental-HealthCare-Application_Project/
 │
-├── mental_health_support_app/
+├── mental_health_support_app/           # Flutter Mobile Application
 │   ├── lib/
-│   │   ├── core/
+│   │   ├── core/                        # Logic, Models, & Services
 │   │   │   ├── controllers/
 │   │   │   ├── models/
-│   │   │   ├── navigation/
 │   │   │   ├── services/
-│   │   │   ├── state/
-│   │   │   ├── theme/
-│   │   │   └── utils/
-│   │   └── presentation/
+│   │   │   └── theme/
+│   │   └── presentation/                # UI Screens & Atomic Design
 │   │       ├── auth/
-│   │       │   └── login_screen.dart
-│   │       ├── components/
-│   │       │   ├── atoms/
-│   │       │   ├── molecules/
-│   │       │   ├── organisms/
-│   │       │   ├── app_button.dart
-│   │       │   ├── app_text_field.dart
-│   │       │   └── section_title.dart
-│   │       ├── components2/
-│   │       ├── counselor/
+│   │       ├── components/              # Atoms, Molecules, Organisms
+│   │       ├── patient/
 │   │       ├── doctor/
-│   │       ├── guardian/
-│   │       └── patient/
-│   ├── android/
-│   │   └── app/
-│   │       └── src/main/res/raw/
-│   ├── assets/
-│   ├── ios/
+│   │       ├── counselor/
+│   │       └── guardian/
 │   └── pubspec.yaml
 │
-├── hospital_administration/
+├── hospital_administration/             # Flask Web Dashboard
 │   ├── controllers/
 │   ├── data/
 │   ├── models/
@@ -173,7 +155,7 @@ Mental-HealthCare-Application_Project/
 │   ├── app.py
 │   ├── config.py
 │   ├── requirements.txt
-│   ├── serviceAccountKey.json    // request from saditha or rehan
+│   ├── serviceAccountKey.json
 │   └── setup_claims.py
                  
 
