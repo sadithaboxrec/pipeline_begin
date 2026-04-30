@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="mindcare_logo" src="https://github.com/user-attachments/assets/19781305-9988-42e7-b05f-e1f5c009cf64" />
+<img width="400" height="400" alt="mindcare_logo" src="https://github.com/user-attachments/assets/19781305-9988-42e7-b05f-e1f5c009cf64" />
 
 # 🧠 MindCare
 
