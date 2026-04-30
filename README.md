@@ -128,32 +128,32 @@ Visit `http://localhost:5000`
 Mental-HealthCare-Application_Project/
 ├── mental_health_support_app/           # Flutter Mobile Application
 │   ├── lib/
-│   │   ├── core/                        # Logic, Models, & Services
+│   │   ├── core/                                     # Logic, Models, & Services
 │   │   │   ├── controllers/
 │   │   │   ├── models/
 │   │   │   ├── services/
 │   │   │   └── theme/
-│   │   └── presentation/                # UI Screens & Atomic Design
-│   │       ├── auth/
-│   │       ├── components/              # Atoms, Molecules, Organisms
-│   │       ├── patient/
-│   │       ├── doctor/
-│   │       ├── counselor/
-│   │       └── guardian/
+│   │   └── presentation/                         # UI Screens & Atomic Design
+│   │         ├── auth/
+│   │         ├── components/                   # Atoms, Molecules, Organisms
+│   │         ├── patient/
+│   │         ├── doctor/
+│   │         ├── counselor/
+│   │         └── guardian/
 │   └── pubspec.yaml
-└── hospital_administration/             # Flask Web Dashboard
-    ├── controllers/
-    ├── data/
-    ├── models/
-    ├── routes/
-    ├── services/
-    ├── static/
-    ├── templates/
-    ├── app.py
-    ├── config.py
-    ├── requirements.txt
-    ├── serviceAccountKey.json
-    └── setup_claims.py
+└── hospital_administration/                  # Flask Web Dashboard
+      ├── controllers/
+      ├── data/
+      ├── models/
+      ├── routes/
+      ├── services/
+      ├── static/
+      ├── templates/
+      ├── app.py
+      ├── config.py
+      ├── requirements.txt
+      ├── serviceAccountKey.json
+      └── setup_claims.py
 ---
 
 ## 👥 Contributors
